@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sam-B-Y&show_icons=true&theme= onedark" alt="Sam-B-Y :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://giphy.com/gifs/tracksidelegends-f1-formula-1-formula1-61UAbKFEqhXtr4GmnM" alt="F1 Gif" height="300" width="500"></p>
 
 
 - 👋 Hi, I’m @Sam-B-Y
